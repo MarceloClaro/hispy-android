@@ -44,4 +44,4 @@ MIT License - Uso Acadêmico
 
 ## 👨‍🏫 Autor
 
-Prof. Marcelo Claro - UFC Crateús
+Prof. Marcelo Claro - Geomaker Crateús
